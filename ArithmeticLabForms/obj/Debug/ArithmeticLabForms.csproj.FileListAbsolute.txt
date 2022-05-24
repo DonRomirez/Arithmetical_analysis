@@ -1,0 +1,6 @@
+C:\Users\romkp\source\repos\ArithmeticLabForms\ArithmeticLabForms\obj\Debug\ArithmeticLabForms.csproj.AssemblyReference.cache
+C:\Users\romkp\source\repos\ArithmeticLabForms\ArithmeticLabForms\obj\Debug\ArithmeticLabForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\romkp\source\repos\ArithmeticLabForms\ArithmeticLabForms\obj\Debug\ArithmeticLabForms.Form1.resources
+C:\Users\romkp\source\repos\ArithmeticLabForms\ArithmeticLabForms\obj\Debug\ArithmeticLabForms.Properties.Resources.resources
+C:\Users\romkp\source\repos\ArithmeticLabForms\ArithmeticLabForms\obj\Debug\ArithmeticLabForms.csproj.GenerateResource.cache
+C:\Users\romkp\source\repos\ArithmeticLabForms\ArithmeticLabForms\obj\Debug\ArithmeticLabForms.csproj.CoreCompileInputs.cache
